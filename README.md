@@ -1,4 +1,4 @@
-# Gaussian-Blur-Performance-Comparison
+# Gaussian Blur Performance Comparison
 
 This project compares the performance of a custom implementation of Gaussian Blur with OpenCV's built-in GaussianBlur function. The objective is to evaluate the accuracy and efficiency of both approaches when applied to an image.
 
